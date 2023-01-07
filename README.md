@@ -1,8 +1,8 @@
 # SmartEdu Project
 
-## Live Demo:
+## => [Live Demo](https://smartedu-app.onrender.com/)
 
-- Bu repo [Patika.dev](https://www.patika.dev/tr)'in hazırlamış olduğu [Node.js](https://app.patika.dev/courses/nodejs) eğitim patikasının [Smartedu Projesi](https://app.patika.dev/courses/nodejs/SmarteduProject) için oluşturulmuştur.
+- Bu proje [Patika.dev](https://www.patika.dev/tr)'in hazırlamış olduğu [Node.js](https://app.patika.dev/courses/nodejs) backend patikasının [Smartedu Projesi](https://app.patika.dev/courses/nodejs/SmarteduProject) eğitim projesidir.
 
 - This repo was created for the Smartedu Project of the Node.js training path prepared by Patika.dev.
 
@@ -74,32 +74,32 @@
 
 ### HOME
 
-![image]()
+![image](/screenshots/home.jpg)
 
 ### ADMIN
 
-![image]()
+![image](/screenshots/admin.jpg)
 
 ### LOGIN
 
-![image]()
+![image](/screenshots/login.jpg)
 
 ### REGISTER
 
-![image]()
+![image](/screenshots/register.jpg)
 
 ### STUDENT DASHBOARD
 
-![image]()
+![image](/screenshots/student-dashboard.jpg)
 
 ### CONTACT
 
-![image]()
+![image](/screenshots/contact.jpg)
 
 ### COURSES
 
-![image]()
+![image](/screenshots/courses.jpg)
 
 ### SINGLE-COURSE
 
-![image]()
+![image](/screenshots/single-courses.jpg)
